@@ -1,4 +1,4 @@
-#Hello there 😁
+# Hello there 😁
 
 My name is Robert and I am a graduate of the National & Kapodistrian University of Athens with a BSc in Economics (2018-2023).  
 Ever since I started learning programming using pseudocode in High School, I felt like my calling was in computers and programming even if my life ended up taking a different direction at the time.  

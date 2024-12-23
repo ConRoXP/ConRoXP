@@ -15,5 +15,5 @@ As long term goals I would also like to learn 🎯:
 • `Proper Soldering`  
 • `and how to Diagnose and Repair faulty Hardware`  
 
-In my GitHub I will be uploading the projects and assignments I complete during my undergraduate years.  
+Here I will be uploading the projects and assignments I complete during my undergraduate years.  
 Each course will be found in its own repository.

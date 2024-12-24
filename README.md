@@ -12,7 +12,7 @@ I am particularly interested in 👀:
 
 As long term goals I would also like to learn 🎯:  
 • `Proper Soldering`  
-• `and how to Diagnose and Repair faulty Hardware`  
+• `and how to Diagnose and (possibly) Repair faulty Hardware`  
 
 Here I will be uploading the projects and assignments I complete during my undergraduate years.  
 Each course will be found in its own repository.

@@ -6,7 +6,7 @@ at the University of West Attica.
 
 I am particularly interested in 👀:  
 • `Programming Languages` (I really enjoy learning new ones)  
-• `Hardware and Microelectronics`  
+• `Microelectronics`  
 • `Digital Electronics and Logic Design`  
 • `Microcontrollers`  
 

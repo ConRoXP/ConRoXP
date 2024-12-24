@@ -8,7 +8,6 @@ I am particularly interested in 👀:
 • `Programming Languages` (I really enjoy learning new ones)  
 • `Hardware and Microelectronics`  
 • `Digital Electronics and Logic Design`  
-• `CPU and GPU Microarchitecture`  
 • `Microcontrollers`  
 
 As long term goals I would also like to learn 🎯:  

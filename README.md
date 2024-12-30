@@ -8,7 +8,7 @@ I am particularly interested in 👀:
 • `Programming Languages` (I really enjoy learning new ones)  
 • `Electronic & Microelectronic circuits`  
 • `Digital Electronics and Logic Design`  
-• `Microcontrollers`  
+• `Microcontrollers and Sensors`  
 
 As long term goals I would also like to learn 🎯:  
 • `Proper Soldering`  

@@ -10,11 +10,7 @@ I am particularly interested in 👀:
 • `Digital Electronics and Logic Design`  
 • `Microcontrollers and Sensors`  
 
-As long term goals I would also like to learn 🎯:  
-• `Proper Soldering`  
-• `and how to Diagnose faulty Hardware`  
-
 Here I will be uploading the projects and assignments I complete during my undergraduate years.  
 Each course will be found in its own repository.  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ConRoXP&theme=github_dark&layout=compact&hide_border=true&langs_count=9&card_width=510)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ConRoXP&theme=github_dark&layout=compact&hide_border=true&langs_count=10&card_width=510)

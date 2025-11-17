@@ -5,7 +5,7 @@ Currently I am an undergraduate Computer Engineer in the department of Computer 
 at the University of West Attica (2023- ).  
 
 I am particularly interested in 👀:  
-• `Programming Languages` (especially low-level)  
+• `Low-level programming`  
 • `Electronic & Microelectronic circuits`  
 • `Digital Electronics and Logic Design`  
 • `Microcontrollers and Sensors`  

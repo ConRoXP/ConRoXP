@@ -12,3 +12,5 @@ I am particularly interested in 👀:
 
 Here I will be uploading the projects and assignments I complete during my undergraduate years.  
 Each course will be found in its own repository.  
+
+[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)

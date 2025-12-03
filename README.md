@@ -12,5 +12,3 @@ I am particularly interested in 👀:
 
 Here I will be uploading the projects and assignments I complete during my undergraduate years.  
 Each course will be found in its own repository.  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConRoXP&size_weight=0.5&count_weight=0.5&hide=sql&theme=github_dark&layout=compact&hide_border=true&langs_count=20&card_width=510)

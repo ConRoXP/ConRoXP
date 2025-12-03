@@ -14,7 +14,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  job-name: user-statistician
+  job-name: languages.yml
     permissions:
       contents: write
 

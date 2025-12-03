@@ -29,5 +29,7 @@ jobs:
         language-repository-exclusions: databases_1_2_sql_uniwa
         colors: dark
         hide-keys: general, contributions, repositories
+        include-title: true
+        custom-title: 'Most Used Languages'
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}

@@ -26,6 +26,7 @@ jobs:
     - name: Generate the user stats image
       uses: cicirello/user-statistician@v1
       with:
+        language-repository-exclusions: databases_1_2_sql_uniwa
         colors: dark
         hide-keys: general, contributions, repositories
       env:

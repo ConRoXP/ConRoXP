@@ -1,1 +1,1 @@
-![Top Langs](https://github-stats-readme-three.vercel.app/api/top-langs/?username=ConRoXP&size_weight=0.5&count_weight=0.5&hide=sql&theme=github_dark&layout=compact&hide_border=true&langs_count=20&card_width=510)
+![Top Langs](https://github-stats-readme-three.vercel.app/api/top-langs/?username=ConRoXP&size_weight=1.0&count_weight=0.0&hide=sql&theme=github_dark&layout=compact&hide_border=true&langs_count=20&card_width=510)
